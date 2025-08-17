@@ -1,5 +1,6 @@
 .idea/
-AccessLogParser.iml
+out/
+*.iml
 
 ### IntelliJ IDEA ###
 out/
